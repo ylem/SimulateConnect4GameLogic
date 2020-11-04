@@ -1,3 +1,5 @@
+![SimulateConnect4GameLogic](https://socialify.git.ci/ylem/SimulateConnect4GameLogic/image?font=KoHo&language=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+
 # SimulateConnect4GameLogic
 Connect 4 game logic
 
